@@ -1,0 +1,5 @@
+# @package _group_
+data_root_dir: /home/a10/SHB/lama/mural512_dataset/
+out_root_dir: /home/a10/SHB/lama/experiments
+tb_dir: /home/a10/SHB/lama/tb_logs
+pretrained_models: /home/a10/SHB/lama/
